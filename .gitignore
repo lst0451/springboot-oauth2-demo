@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+target/
+*.bak
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+git.properties
